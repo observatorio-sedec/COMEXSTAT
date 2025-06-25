@@ -1,0 +1,13 @@
+estado/.RDataTmp
+estado/.Rhistory
+estado/comexstat_ncm.log
+estado/compilado_decodificador.xlsx
+estado/decodificador_comexstat.xlsx
+estado/geo_coordenadas.xlsx
+
+municipios/.RDataTmp
+municipios/.Rhistory
+municipios/comexstat_sh4.log
+municipios/compilado_decodificador.xlsx
+municipios/decodificador_comexstat.xlsx
+municipios/geo_coordenadas.xlsx
